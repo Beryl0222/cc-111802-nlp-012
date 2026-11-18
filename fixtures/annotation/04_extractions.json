@@ -1,0 +1,18 @@
+{
+  "extractions": [
+    {
+      "kind": "施事",
+      "relation_refs": [{"dependent": [0, 2], "label": "nsubj"}],
+      "payload": {"text": "老师", "span": [0, 2]},
+      "origin": {"kind": "manual", "actor": "教研员-李"},
+      "at": "2026-11-18T09:25:00Z"
+    },
+    {
+      "kind": "对象",
+      "relation_refs": [{"dependent": [3, 6], "label": "dobj"}],
+      "payload": {"text": "作业本", "span": [3, 6]},
+      "origin": {"kind": "manual", "actor": "教研员-李"},
+      "at": "2026-11-18T09:26:00Z"
+    }
+  ]
+}

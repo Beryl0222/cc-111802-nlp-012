@@ -1,0 +1,15 @@
+{
+  "origin": {"kind": "auto", "run_id": "heuristic-parser-2026-11-18-02"},
+  "at": "2026-11-18T09:41:00Z",
+  "relations": [
+    {"dependent": [0, 2], "head": [6, 8], "label": "nsubj"},
+    {"dependent": [2, 3], "head": [5, 6], "label": "case"},
+    {"dependent": [3, 5], "head": [5, 6], "label": "compound"},
+    {"dependent": [5, 6], "head": [6, 8], "label": "dobj"},
+    {"dependent": [6, 8], "head": null, "label": "ROOT"},
+    {"dependent": [8, 9], "head": [6, 8], "label": "aux"},
+    {"dependent": [9, 11], "head": [11, 13], "label": "det"},
+    {"dependent": [11, 13], "head": [6, 8], "label": "iobj"},
+    {"dependent": [13, 14], "head": [6, 8], "label": "punct"}
+  ]
+}

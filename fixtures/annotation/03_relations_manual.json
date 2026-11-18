@@ -1,0 +1,7 @@
+{
+  "origin": {"kind": "manual", "actor": "教研员-李"},
+  "at": "2026-11-18T09:20:00Z",
+  "relations": [
+    {"dependent": [3, 6], "head": [6, 8], "label": "dobj"}
+  ]
+}
